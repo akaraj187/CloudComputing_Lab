@@ -48,16 +48,5 @@ sysbench cpu --cpu-max-prime=20000 run
 
 
 
----
-
-## 🛠️ Usage
-
-To replicate the test on an identical Ubuntu virtual machine:
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-chmod +x scripts/run_benchmark.sh
-./scripts/run_benchmark.sh
 
 ```
