@@ -5,6 +5,10 @@
 ![VMware](https://img.shields.io/badge/Hypervisor-VMware%20Workstation%20(Type--2)-607078?logo=vmware&logoColor=white)
 ![Benchmark](https://img.shields.io/badge/Benchmark-Sysbench%201.0.20-blue?logo=gnu-bash&logoColor=white)
 
+> 🔬 **Lab Experiments Index:**
+> * **Experiment 1:** [Type-1 (Proxmox VE) vs Type-2 (VMware Workstation) CPU Performance Analysis](file:///home/akash_td/CloudComputing_Lab/README.md)
+> * **Experiment 2:** [Virtual Machine vs Docker Container Memory Performance Analysis](file:///home/akash_td/CloudComputing_Lab/exp%202/README.md)
+
 ---
 
 ## 📑 Table of Contents
