@@ -179,6 +179,9 @@ kubectl delete deployment resource-demo
 
 | **Load Balancing**  | | **Final Utilization**  |
 <img width="1920" height="1080" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/8aebb9b2-9860-4925-be81-b4f0cd7cc04d" />
+**NGINX**
+<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/d8c3d8d3-d7ff-42b8-afbb-84faec1e47d8" />
+
 **Over Allocated**
 <img width="1920" height="1080" alt="pending-demoworkload" src="https://github.com/user-attachments/assets/464a0588-0f30-45cd-822b-4007d0511fd3" />
 
